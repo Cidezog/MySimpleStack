@@ -9,6 +9,4 @@ public class Item2 extends Item {
         super(value);
     }
 
-    int x = 5;
-
 }
