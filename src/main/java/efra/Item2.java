@@ -8,4 +8,7 @@ public class Item2 extends Item {
     public Item2(Object value) {
         super(value);
     }
+
+    int x = 5;
+
 }
